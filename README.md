@@ -7,7 +7,7 @@ The third one is Bar graph of number of students failed in specified subjecs.
 YOU CAN SEE THE IMAGES ATTACHED BELOW FOR BETTER UNDERSTANDING
 Here is the step by step procedure with example images:
 1. clone the repository in your pc
-2. install all required dependency from here
+2.  install the necessary dependencies by running pip install -r requirements.txt.  in the terminal after moving in the clone dir.
 3. change the range of roll no in the OU_Results_Fetcher.py file and the link to results
    
    ![image](https://github.com/Ishxaq/OU-Result-Fetcher/assets/171219614/9bc3a8fb-46a5-4a68-962c-60c29c0085a3)
