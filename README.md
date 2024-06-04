@@ -1,6 +1,10 @@
-Results Fetcher is a project aimed at automating the process of fetching and visualizing academic results from Osmainia University webiste  of an entire class.
-It is very simple to use. You only have to run the two python files.
-But it is neccessary to input the range of roll nos you want to fecth the result for.
+What it does:
+The repo conatains two file ie OU_Results_Fetcher.py and Result_Visualizer.py .
+It fetches results of batch of students or class at a single time and create a excell file containg the results and also visualizes it.
+The visualization is done in three ways. first one is a bar graph of students roll no and thier respective GPAs.
+The second one is overall passed and promoted students pie chart.
+The third one is Bar graph of number of students failed in specified subjecs.
+YOU CAN SEE THE IMAGES ATTACHED BELOW FOR BETTER UNDERSTANDING
 Here is the step by step procedure with example images:
 1. clone the repository in your pc
 2. install all required dependency from here
