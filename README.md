@@ -8,11 +8,11 @@ YOU CAN SEE THE IMAGES ATTACHED BELOW FOR BETTER UNDERSTANDING
 Here is the step by step procedure with example images:
 1. clone the repository in your pc or you can do it in the terminal by copying and pasting this code in you terminal
 
-   git clone https://github.com/Ishxaq/OU-Result-Fetcher/tree/main
+   "git clone https://github.com/Ishxaq/OU-Result-Fetcher/tree/main
    
    cd OU-Result-Fetcher
 
-   pip install -r requirements.txt
+   pip install -r requirements.txt "
 
    now you can skip step 2 if you pasted this on terminal.
 
